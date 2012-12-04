@@ -1,0 +1,29 @@
+Running selenium grid as service:
+
+INSTALLING
+=================================
+run \bin\InstallSeleniumHub.bat
+
+RUNNING
+=================================
+to run the service go to services.msc on windows
+find Selenium Hub service and start it
+
+UNINSTALLING
+=================================
+run \bin\UninstallSeleniumHub.bat
+
+CONFIGURATION
+=================================
+config files located at conf\wrapper.conf
+
+UPGRADING SELENIUM SEVER
+================================
+download the latest version of selenim-server-standalone-xxx.jar
+copy to lib folder and name it as selenium-server-standalone.jar
+reinstall selenoum hub service
+
+ETC
+===============================
+Selenium Grid is running on port 4545 if ou need to run on the different port change the config file
+

@@ -1,0 +1,232 @@
+
+DEBUG  | wrapper  | 2012/12/04 10:12:45 | Service command: D:\grid\bin\wrapper.exe -s D:\grid\conf\wrapper.conf
+STATUS | wrapper  | 2012/12/04 10:12:46 | Selenium Hub service installed.
+STATUS | wrapper  | 2012/12/04 10:13:48 | Selenium Hub service removed.
+DEBUG  | wrapper  | 2012/12/04 10:39:42 | Service command: D:\grid\bin\wrapper.exe -s D:\grid\conf\wrapper.conf
+STATUS | wrapper  | 2012/12/04 10:39:43 | Selenium Hub service installed.
+DEBUG  | wrapper  | 2012/12/04 10:39:53 | Allocating a console for the service.
+DEBUG  | wrapper  | 2012/12/04 10:39:53 | Found console window.
+STATUS | wrapper  | 2012/12/04 10:39:53 | --> Wrapper Started as Service
+STATUS | wrapper  | 2012/12/04 10:39:53 | Java Service Wrapper Community Edition 32-bit 3.5.15
+STATUS | wrapper  | 2012/12/04 10:39:53 |   Copyright (C) 1999-2012 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2012/12/04 10:39:53 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2012/12/04 10:39:53 | 
+DEBUG  | wrapper  | 2012/12/04 10:39:53 | Launching Startup thread.
+DEBUG  | wrapper  | 2012/12/04 10:39:53 | Startup thread started.
+DEBUG  | wrapper  | 2012/12/04 10:39:53 | Attempting to verify the binary signature.
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Startup timed out.  Continuing in background.
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Release time: 2012/06/20 00:00:00
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Build time:   2012/06/20 17:50:00
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Timezone:     Eastern Standard Time (Eastern Daylight Time) Offset: 18000, hasDaylight: 1
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Using tick timer.
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Current User: SYSTEM  Domain: NT AUTHORITY
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Operating System ID: Microsoft Windows 7 Professional Service Pack 1 (build 7601), 64-bit
+INFO   | wrapper  | 2012/12/04 10:39:54 | 
+INFO   | wrapper  | 2012/12/04 10:39:54 | Environment variables (Source | Name=Value) BEGIN:
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | ALLUSERSPROFILE=C:\ProgramData
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | APPDATA=C:\Windows\system32\config\systemprofile\AppData\Roaming
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | CommonProgramFiles=C:\Program Files (x86)\Common Files
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | CommonProgramW6432=C:\Program Files\Common Files
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | COMPUTERNAME=ICIMSPC171
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | ComSpec=C:\Windows\system32\cmd.exe
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | FP_NO_HOST_CHECK=NO
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | GIT_SSH=C:\Program Files (x86)\Git\bin\ssh.exe
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | HOME=H:\
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | JAVA_HOME=d:\common\jdk1.6.0
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | JIRA_HOME=D:\jira
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | LOCALAPPDATA=C:\Windows\system32\config\systemprofile\AppData\Local
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | MOZ_PLUGIN_PATH=C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | NUMBER_OF_PROCESSORS=8
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | OS=Windows_NT
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;d:\common\ant\bin;d:\common\jdk1.6.0\bin;C:\Program Files\TortoiseSVN\bin;C:\Python27;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;D:\growl\;D:\selenium;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files (x86)\vagrant\vagrant\bin;C:\Program Files\Oracle\VirtualBox;C:\Program Files (x86)\Universal Extractor;C:\Program Files (x86)\Universal Extractor\bin;
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PROCESSOR_ARCHITECTURE=x86
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PROCESSOR_ARCHITEW6432=AMD64
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PROCESSOR_LEVEL=6
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PROCESSOR_REVISION=2a07
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | ProgramData=C:\ProgramData
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | ProgramFiles=C:\Program Files (x86)
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | ProgramFiles(x86)=C:\Program Files (x86)
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | ProgramW6432=C:\Program Files
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | PUBLIC=C:\Users\Public
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | STASH_HOME=D:\stash_home
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | SVN_SSH=C:\Program Files\TortoiseSVN\bin\TortoisePlink.exe
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | SystemDrive=C:
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | SystemRoot=C:\Windows
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | TEMP=C:\Windows\TEMP
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | TMP=C:\Windows\TEMP
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | USERDOMAIN=ICIMSNET
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | USERNAME=ICIMSPC171$
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | USERPROFILE=C:\Windows\system32\config\systemprofile
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | VBOX_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P---- | windir=C:\Windows
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_ARCH=x86
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_BIN_DIR=D:\grid\bin
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_BITS=32
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_CONF_DIR=D:\grid\conf
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_FILE_SEPARATOR=\
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_HOST_NAME=ICIMSPC171
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_HOSTNAME=ICIMSPC171
+INFO   | wrapper  | 2012/12/04 10:39:54 |   P--W- | WRAPPER_INIT_DIR=C:\Windows\system32
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_LANG=en
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_OS=windows
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_PATH_SEPARATOR=;
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_PID=11988
+INFO   | wrapper  | 2012/12/04 10:39:54 |   ---W- | WRAPPER_WORKING_DIR=D:\grid\bin
+INFO   | wrapper  | 2012/12/04 10:39:54 | Environment variables END:
+INFO   | wrapper  | 2012/12/04 10:39:54 | 
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Use tick timer mutex=FALSE
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | active log file changed: ..\logs\wrapper.log
+DEBUG  | wrapper  | 2012/12/04 10:39:54 | Preparing to restart with mode 1.
+DEBUG  | wrapperp | 2012/12/04 10:39:55 | server listening on port 32000.
+DEBUG  | wrapper  | 2012/12/04 10:39:55 | Magic number for file C:\Windows\system32\java.exe: 0x4d5a9000
+DEBUG  | wrapper  | 2012/12/04 10:39:55 | Ping settings: wrapper.ping.interval=5, wrapper.ping.interval.logged=1, wrapper.ping.timeout=30
+STATUS | wrapper  | 2012/12/04 10:39:55 | Launching a JVM...
+DEBUG  | wrapper  | 2012/12/04 10:39:55 | Command: "C:\Windows\system32\java.exe" -Djava.library.path="../lib" -classpath "../lib/wrapper.jar;../lib/selenium-server-standalone.jar" -Dwrapper.key="IbWTSgOKtZKWB7HG" -Dwrapper.port=32000 -Dwrapper.jvm.port.min=31000 -Dwrapper.jvm.port.max=31999 -Dwrapper.debug="TRUE" -Dwrapper.pid=11988 -Dwrapper.version="3.5.15" -Dwrapper.native_library="wrapper" -Dwrapper.service="TRUE" -Dwrapper.cpu.timeout="10" -Dwrapper.jvmid=1 org.tanukisoftware.wrapper.WrapperJarApp ../lib/selenium-server-standalone.jar -role hub -port 4545
+DEBUG  | wrapper  | 2012/12/04 10:39:55 | JVM started (PID=12372)
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug: WrapperManager class initialized by thread: main   Using classloader: sun.misc.Launcher$AppClassLoader@136228
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug: JVM #1
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug: Running a 32-bit JVM.
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug: org.tanukisoftware.wrapper.WrapperManager package information:
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug:   Implementation Title: org.tanukisoftware.wrapper
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug:   Implementation Vendor: Tanuki Software, Ltd.
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug:   Implementation Version: 3.5.15
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug:   Is Sealed?: False
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug: org.tanukisoftware.wrapper.WrapperManager protection domain:
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug:   Location: file:/D:/grid/lib/wrapper.jar
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug:     Size: 119,430
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug:     MD5: 2c0a68dc7fc3dec48d62674afafbfeb6
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug: Registering shutdown hook
+INFO   | jvm 1    | 2012/12/04 10:39:58 | WrapperManager Debug: Using wrapper
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Registered MBean with Platform MBean Server: org.tanukisoftware.wrapper:type=WrapperManager
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Load native library.  There are multiple possible file names and the first to be found will be used.  Errors loading non-existing files is normal and is only a problem if they all fail.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug:   Attempt to load native library with name: wrapper-windows-x86-32.dll  Result: no wrapper-windows-x86-32 in java.library.path
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug:   Attempt to load native library with name: wrapper.dll  Result: Success!
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug:   Successfully loaded native library.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Loaded localized resources.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Calling native initialization method.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJNI Debug: Initializing WrapperManager native library.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJNI Debug: Java Executable: C:\Windows\SysWOW64\java.exe
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJNI Debug: Native Library: D:\grid\lib\wrapper.dll
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJNI Debug: Windows version: 6.1.7601
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Java Version   : 1.7.0_05-b05 Java HotSpot(TM) Client VM
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Java VM Vendor : Oracle Corporation
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: OS Name        : Windows 7
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: OS Arch        : x86
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: 
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Control event monitor thread started.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Startup runner thread started.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJarApp Debug: Jar Main-Class: org.openqa.grid.selenium.GridLauncher
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJarApp Debug: Jar Classpath: Not specified.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJarApp Debug:     Classpath[0]=file:D:/grid/bin/../lib/selenium-server-standalone.jar
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: WrapperManager.start(a org.tanukisoftware.wrapper.WrapperJarApp, args["-role", "hub", "-port", "4545"]) called by thread: main
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Initial thread: main Priority: 5
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Communications runner thread started.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Open socket to wrapper...Wrapper-Connection
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Opened Socket from 31,000 to 32,000
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Send a packet KEY : IbWTSgOKtZKWB7HG
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: handleBackend()
+DEBUG  | wrapperp | 2012/12/04 10:39:59 | accepted a socket from 127.0.0.1 on port 31000
+DEBUG  | wrapperp | 2012/12/04 10:39:59 | closing backend server.
+DEBUG  | wrapperp | 2012/12/04 10:39:59 | read a packet KEY : IbWTSgOKtZKWB7HG
+DEBUG  | wrapper  | 2012/12/04 10:39:59 | Got key from JVM: IbWTSgOKtZKWB7HG
+DEBUG  | wrapperp | 2012/12/04 10:39:59 | send a packet LOW_LOG_LEVEL : 1
+DEBUG  | wrapperp | 2012/12/04 10:39:59 | send a packet LOGFILE : ..\logs\wrapper.log
+DEBUG  | wrapperp | 2012/12/04 10:39:59 | send a packet PROPERTIES : (Property Values)
+DEBUG  | wrapper  | 2012/12/04 10:39:59 | Start Application.
+DEBUG  | wrapperp | 2012/12/04 10:39:59 | send a packet START : start
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Received a packet LOW_LOG_LEVEL : 1
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: LowLogLevel from Wrapper is 1
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Received a packet LOGFILE : ..\logs\wrapper.log
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Received a packet PROPERTIES : (Property Values)
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Received a packet START : start
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Java temporary directory: C:\Windows\TEMP
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: calling WrapperListener.start()
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: WrapperListener.start runner thread started.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperManager Debug: Application start main thread: WrapperListener_start_runner Priority: 5
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJarApp Debug: start(args) Will wait up to 2 seconds for the main method to complete.
+INFO   | jvm 1    | 2012/12/04 10:39:59 | WrapperJarApp Debug: invoking main method
+INFO   | jvm 1    | 2012/12/04 10:39:59 | Dec 04, 2012 10:39:59 AM org.openqa.grid.selenium.GridLauncher main
+INFO   | jvm 1    | 2012/12/04 10:39:59 | INFO: Launching a selenium grid server
+INFO   | jvm 1    | 2012/12/04 10:40:00 | WrapperManager Debug: Send a packet START_PENDING : 5000
+DEBUG  | wrapperp | 2012/12/04 10:40:00 | read a packet START_PENDING : 5000
+DEBUG  | wrapper  | 2012/12/04 10:40:00 | JVM signaled a start pending with waitHint of 5000 millis.
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperManager Debug: Send a packet START_PENDING : 5000
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperJarApp Debug: start(args) end.  Main Completed=false, exitCode=null
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperManager Debug: returned from WrapperListener.start()
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperManager Debug: Send a packet STARTED : 
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperManager Debug: WrapperListener.start runner thread stopped.
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperManager Debug: Startup runner thread stopped.
+DEBUG  | wrapperp | 2012/12/04 10:40:01 | read a packet START_PENDING : 5000
+DEBUG  | wrapper  | 2012/12/04 10:40:01 | JVM signaled a start pending with waitHint of 5000 millis.
+DEBUG  | wrapperp | 2012/12/04 10:40:01 | read a packet STARTED : 
+DEBUG  | wrapper  | 2012/12/04 10:40:01 | JVM signaled that it was started.
+DEBUG  | wrapperp | 2012/12/04 10:40:01 | send a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperManager Debug: Received a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:01 | WrapperManager Debug: Send a packet PING : ping
+DEBUG  | wrapperp | 2012/12/04 10:40:01 | read a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:03 | 2012-12-04 10:40:03.191:INFO:osjs.Server:jetty-7.x.y-SNAPSHOT
+INFO   | jvm 1    | 2012/12/04 10:40:03 | 2012-12-04 10:40:03.309:INFO:osjsh.ContextHandler:started o.s.j.s.ServletContextHandler{/,null}
+INFO   | jvm 1    | 2012/12/04 10:40:03 | 2012-12-04 10:40:03.326:INFO:osjs.AbstractConnector:Started SocketConnector@0.0.0.0:4545
+INFO   | jvm 1    | 2012/12/04 10:40:03 | WrapperJarApp Debug: main method completed
+DEBUG  | wrapperp | 2012/12/04 10:40:05 | send a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:05 | WrapperManager Debug: Received a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:05 | WrapperManager Debug: Send a packet PING : ping
+DEBUG  | wrapperp | 2012/12/04 10:40:05 | read a packet PING : ping
+DEBUG  | wrapper  | 2012/12/04 10:40:08 | The file "D:\grid\bin\wrapper.exe" is signed and the signature was verified.
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |   Signer Certificate:
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |     Serial Number: 
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |       00 97 06 fe b5 6e 56 cc cb 66 3a bb 55 a7 a0 e4 76 
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |     Issuer Name: UTN-USERFirst-Object
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |     Subject Name: Tanuki Software Ltd.
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |   TimeStamp Certificate:
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |     Serial Number: 
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |       47 8a 8e fb 59 e1 d8 3f 0c e1 42 d2 a2 87 07 be 
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |     Issuer Name: UTN-USERFirst-Object
+DEBUG  | wrapper  | 2012/12/04 10:40:08 |     Subject Name: COMODO Time Stamping Signer
+DEBUG  | wrapper  | 2012/12/04 10:40:08 | 
+DEBUG  | wrapper  | 2012/12/04 10:40:08 | Startup thread stopped.
+DEBUG  | wrapperp | 2012/12/04 10:40:09 | send a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:09 | WrapperManager Debug: Received a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:09 | WrapperManager Debug: Send a packet PING : ping
+DEBUG  | wrapperp | 2012/12/04 10:40:09 | read a packet PING : ping
+DEBUG  | wrapperp | 2012/12/04 10:40:13 | send a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:13 | WrapperManager Debug: Received a packet PING : ping
+INFO   | jvm 1    | 2012/12/04 10:40:13 | WrapperManager Debug: Send a packet PING : ping
+DEBUG  | wrapperp | 2012/12/04 10:40:13 | read a packet PING : ping
+DEBUG  | wrapper  | 2012/12/04 10:40:14 |   SERVICE_CONTROL_STOP
+DEBUG  | wrapperp | 2012/12/04 10:40:14 | send a packet SERVICE_CONTROL_CODE : 1
+DEBUG  | wrapper  | 2012/12/04 10:40:14 | wrapperStopProcess(0, TRUE) called.
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Received a packet SERVICE_CONTROL_CODE : 1
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: ServiceControlCode from Wrapper with code 1
+DEBUG  | wrapper  | 2012/12/04 10:40:14 | Sending stop signal to JVM
+DEBUG  | wrapperp | 2012/12/04 10:40:14 | send a packet STOP : NULL
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Received a packet STOP : 
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Thread, Wrapper-Connection, handling the shutdown process.
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: calling listener.stop()
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Waiting for WrapperListener.stop runner thread to complete.
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: WrapperListener.stop runner thread started.
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Application stop main thread: WrapperListener_stop_runner Priority: 5
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperJarApp Debug: stop(0)
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: WrapperListener.stop runner thread stopped.
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: returned from listener.stop() -> 0
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: shutdownJVM(0) Thread: Wrapper-Connection
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: wait for 0 shutdown locks to be released.
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Send a packet STOPPED : 0
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Stopped checking for control events.
+DEBUG  | wrapperp | 2012/12/04 10:40:14 | read a packet STOPPED : 0
+DEBUG  | wrapper  | 2012/12/04 10:40:14 | JVM signaled that it was stopped.
+INFO   | jvm 1    | 2012/12/04 10:40:14 | WrapperManager Debug: Closing backend connection.
+DEBUG  | wrapperp | 2012/12/04 10:40:14 | socket read no code (closed?).
+DEBUG  | wrapperp | 2012/12/04 10:40:14 | Closing backend socket.
+INFO   | jvm 1    | 2012/12/04 10:40:15 | WrapperManager Debug: calling System.exit(0)
+DEBUG  | wrapper  | 2012/12/04 10:40:16 | Pause reading child process output to share cycles.
+DEBUG  | wrapper  | 2012/12/04 10:40:16 | JVM process exited with a code of 0, leaving the wrapper exit code set to 0.
+DEBUG  | wrapper  | 2012/12/04 10:40:16 | JVM exited normally.
+STATUS | wrapper  | 2012/12/04 10:40:16 | <-- Wrapper Stopped
+STATUS | wrapper  | 2012/12/04 10:42:27 | Selenium Hub service removed.
+ERROR  | wrapper  | 2012/12/04 10:50:21 | The Selenium Hub service is not installed - The specified service does not exist as an installed service. (0x424)
