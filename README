@@ -1,5 +1,8 @@
 Running selenium grid as service:
 
+INSTALLING SELENIUM GRID 2 AS HUB
+==================================
+
 INSTALLING
 =================================
 run \bin\InstallSeleniumHub.bat
