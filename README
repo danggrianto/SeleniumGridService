@@ -1,4 +1,5 @@
-Running selenium grid as service:
+Running selenium grid/node as service:
+to run / install as node follow the same instruction for node
 
 INSTALLING SELENIUM GRID 2 AS HUB
 ==================================
@@ -24,9 +25,17 @@ UPGRADING SELENIUM SEVER
 ================================
 download the latest version of selenim-server-standalone-xxx.jar
 copy to lib folder and name it as selenium-server-standalone.jar
-reinstall selenoum hub service
+reinstall selenium hub service
 
 ETC
 ===============================
 Selenium Grid is running on port 4545 if ou need to run on the different port change the config file
+
+Changelog:
+===============================
+v.1
+add selenium hub
+v.2
+- add selenium node service
+- upgrade selenium server to 2.31
 

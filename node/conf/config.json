@@ -1,0 +1,25 @@
+{
+"capabilities":
+        [
+                {
+                "version":"16",
+                "browserName":"firefox",
+                "maxInstances":2,
+                "firefox_binary":"d:\\common\\firefox16\\firefox.exe"                   
+                },
+                {
+                "version":"18",
+                "browserName":"firefox",
+                "maxInstances":2,
+                "firefox_binary":"d:\\common\\firefox\\firefox18\\firefox.exe"                  
+                }
+        ],
+"configuration":
+        {
+                "cleanUpCycle":5000,
+                "timeout":240000,
+                "proxy":"org.openqa.grid.selenium.proxy.WebDriverRemoteProxy",
+                "maxSession":5,
+
+        }
+}
